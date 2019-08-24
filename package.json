@@ -1,0 +1,24 @@
+{
+  "name": "apex-plugin",
+  "version": "0.0.1",
+  "description": "The Apex of Zengine Plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tehpsalmist/apex-plugin.git"
+  },
+  "keywords": [
+    "apex",
+    "plugin",
+    "zengine"
+  ],
+  "author": "Ben Steward <bstewardcodes@gmail.com> (https://tehpsalmist.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tehpsalmist/apex-plugin/issues"
+  },
+  "homepage": "https://github.com/tehpsalmist/apex-plugin#readme"
+}
